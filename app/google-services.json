@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "143421969707",
+    "firebase_url": "https://bookmh-f97f2.firebaseio.com",
+    "project_id": "bookmh-f97f2",
+    "storage_bucket": "bookmh-f97f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143421969707:android:5ffce207e24bd501",
+        "android_client_info": {
+          "package_name": "com.example.mehdifamily.fxgcnn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143421969707-sjn73bo19qkvkecmmc6ca41173p9ko67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW73gJI-wycdt78ArG8xAGoHcLJUHz8qk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
